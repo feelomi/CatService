@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CommandsService.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,14 +28,13 @@ namespace CommandsService
         
         public void ConfigureServices(IServiceCollection services)
         {
-           
-          
+
+            services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMen"));
+            services.AddScoped<ICommandRepo, CommandRepo>();
             services.AddControllers();
 
-           
 
-           
-            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+           services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         
             services.AddSwaggerGen(c =>
             {
