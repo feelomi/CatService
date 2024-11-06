@@ -149,3 +149,4 @@ C:\Users\hodan\PlatformService\PlatformService\obj\Debug\net8.0\refint\PlatformS
 C:\Users\hodan\PlatformService\PlatformService\obj\Debug\net8.0\PlatformService.pdb
 C:\Users\hodan\PlatformService\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
 C:\Users\hodan\PlatformService\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
+C:\Users\hodan\PlatformService\PlatformService\bin\Debug\net8.0\appsettings.Production.json
