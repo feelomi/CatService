@@ -10,7 +10,7 @@ public static void PrepPopulation(IApplicationBuilder app, bool isProd)
         using (var serviceScope = app.ApplicationServices.CreateScope())
             {
 
-                SeedData(serviceScope.ServiceProvider.GetRequiredService<AppDbContext>(), isProd);
+                SeedData(serviceScope.ServiceProvider.GetService<AppDbContext>(), isProd);
 
             }
     }

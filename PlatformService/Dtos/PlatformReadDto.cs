@@ -5,12 +5,12 @@ namespace PlatformService.Dtos
         
          public int Id { get; set; }
        
-        public required string CatName { get; set; }
+        public string CatName { get; set; }
       
          public int Age { get; set; }
          
-        public required string Breed { get; set; }
+        public string Breed { get; set; }
      
-        public required string Description { get; set; }
+        public string Description { get; set; }
     }
 }
