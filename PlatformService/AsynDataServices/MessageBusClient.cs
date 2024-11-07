@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.Extensions.Configuration;
 using PlatformService.Dtos;
 using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
 
 namespace PlatformService.AsyncDataServices
 {

@@ -1,0 +1,8 @@
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.csproj.AssemblyReference.cache
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.AssemblyInfoInputs.cache
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.AssemblyInfo.cs
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.csproj.CoreCompileInputs.cache
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hodan\PlatformService\PlatformService\obj\Release\net8.0\PlatformService.sourcelink.json
