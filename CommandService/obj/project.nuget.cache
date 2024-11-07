@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "iC32PEGdihIMEKfFp355Hk9XCtQLNo0j1G9XP2nt1qt9Njo65V4tv2gg8o9s2snFEn6EYuameM8YDpqVhCX0uw==",
+  "dgSpecHash": "838YdCktMUfwo+AkPTnmjcZIgHUesJLUESfKcYRYddMPvh84bKzsdKBC0vFGAQrLqu2WHk6uLcQNgJqhO+zxUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hodan\\PlatformService\\CommandService\\CommandService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hodan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hodan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\hodan\\.nuget\\packages\\google.protobuf\\3.28.3\\google.protobuf.3.28.3.nupkg.sha512",
+    "C:\\Users\\hodan\\.nuget\\packages\\grpc.core.api\\2.66.0\\grpc.core.api.2.66.0.nupkg.sha512",
+    "C:\\Users\\hodan\\.nuget\\packages\\grpc.net.client\\2.66.0\\grpc.net.client.2.66.0.nupkg.sha512",
+    "C:\\Users\\hodan\\.nuget\\packages\\grpc.net.common\\2.66.0\\grpc.net.common.2.66.0.nupkg.sha512",
+    "C:\\Users\\hodan\\.nuget\\packages\\grpc.tools\\2.67.0\\grpc.tools.2.67.0.nupkg.sha512",
     "C:\\Users\\hodan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hodan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\hodan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
